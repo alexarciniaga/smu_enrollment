@@ -1,0 +1,9 @@
+<mjml>
+<mj-body>
+    <mj-section>
+        <mj-column width="600px">
+            <mj-image src="./assets/pngs/logo.png" alt="smu_logo"/>
+        </mj-column>
+    </mj-section>
+</mj-body>
+</mjml>
