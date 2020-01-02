@@ -5,7 +5,7 @@
     <mj-attributes>
     <mj-all font-family="Callibri,sans-serif,arial" letter-spacing="-0.25px"/>
     </mj-attributes>
-<mj-style>
+<mj-style inline="inline">
 a {
     color:inherit;
     font-weight:inherit;
@@ -20,12 +20,12 @@ a {
 <mj-body background-color="#f4f4f4">
     <mj-section background-color="#ffffff" padding-top="6px" padding-bottom="6px">
         <mj-column width="600px">
-            <mj-image width="124px" src="./assets/pngs/logoblue.png" alt="smu_logo"/>
+            <mj-image width="124px" src="https://mightyandtrue.com/smu_enrollment/assets/pngs/logoblue.png" alt="smu_logo"/>
         </mj-column>
     </mj-section>
     <mj-section background-color="#cc0035">
         <mj-column width="600px">
-            <mj-image src="./assets/pngs/EnrollmentHero.png" alt="Welcome Future of Cybersecurity Leader" />
+            <mj-image src="https://mightyandtrue.com/smu_enrollment/assets/pngs/EnrollmentHero.png" alt="Welcome Future of Cybersecurity Leader" />
         </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff">
@@ -62,7 +62,7 @@ a {
             <mj-button background-color="#354ca1" font-size="16px" inner-padding="14px 24px" line-height="18px" font-weight="400" border-radius="1px" href="#" font-family="Helvetica">
                 SCHEDULE AN APPOINTMENT
             </mj-button>
-            <mj-text padding-top="27px" padding-bottom="47px" font-size="16px" line-height="24px">
+            <mj-text container-background-color="#fff" padding-top="27px" padding-bottom="47px" font-size="16px" line-height="24px">
             Warm regards,<br><br>
 
             Melvin Alvarenga<br>
@@ -83,23 +83,23 @@ a {
     <mj-section padding="0 0 16px 0"  background-color="#354ca1">
         <mj-column>
         <mj-navbar base-url="#" hamburger="" ico-color="#ffffff">
-            <mj-navbar-link text-decoration="underline" href="/gettings-started-onboard" color="#ffffff">Contact</mj-navbar-link>
-            <mj-navbar-link text-decoration="underline" href="/try-it-live" color="#ffffff">Maps &amp; Directions</mj-navbar-link>
-            <mj-navbar-link text-decoration="underline" href="/templates" color="#ffffff">Legal Disclosures</mj-navbar-link>
-            <mj-navbar-link text-decoration="underline" href="/components" color="#ffffff">Unsubscribe</mj-navbar-link>
+            <mj-navbar-link text-decoration="underline" href="https://mightyandtrue.com" color="#ffffff">Contact</mj-navbar-link>
+            <mj-navbar-link text-decoration="underline" href="https://mightyandtrue.com" color="#ffffff">Maps &amp; Directions</mj-navbar-link>
+            <mj-navbar-link text-decoration="underline" href="https://mightyandtrue.com" color="#ffffff">Legal Disclosures</mj-navbar-link>
+            <mj-navbar-link text-decoration="underline" href="https://mightyandtrue.com" color="#ffffff">Unsubscribe</mj-navbar-link>
         </mj-navbar>
         </mj-column>
     </mj-section>
     <mj-section background-color="#b9b9b7">
         <mj-column>
         <mj-social font-size="15px" icon-size="30px" mode="horizontal">
-          <mj-social-element background-color="transparent" name="twitter" href="#">
+          <mj-social-element background-color="transparent" name="twitter" href="https://mightyandtrue.com">
           </mj-social-element>
-          <mj-social-element background-color="transparent"name="facebook" href="#">
+          <mj-social-element background-color="transparent"name="facebook" href="https://mightyandtrue.com">
           </mj-social-element>
-          <mj-social-element background-color="transparent"name="instagram" href="#">
+          <mj-social-element background-color="transparent"name="instagram" href="https://mightyandtrue.com">
           </mj-social-element>
-          <mj-social-element background-color="transparent"name="linkedin" href="#">
+          <mj-social-element background-color="transparent"name="linkedin" href="https://mightyandtrue.com">
           </mj-social-element>
         </mj-social>
         </mj-column>
@@ -107,7 +107,7 @@ a {
     <mj-section padding-top="1px" padding-bottom="5px" background-color="#ffffff">
         <mj-column width="600px">
             <mj-text align="center" font-size="11px" line-height="18px" color="#111111">
-                Having trouble? <a class="boldtext" href="#">View this email in browser</a>
+                Having trouble? <a class="boldtext" href="https://mightyandtrue.com">View this email in browser</a>
             </mj-text>
         </mj-column>
     </mj-section>
