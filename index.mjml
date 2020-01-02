@@ -28,7 +28,7 @@ a {
             <mj-image src="https://mightyandtrue.com/smu_enrollment/assets/pngs/EnrollmentHero.png" alt="Welcome Future of Cybersecurity Leader" />
         </mj-column>
     </mj-section>
-    <mj-section background-color="#ffffff">
+    <mj-section padding="0" background-color="#ffffff">
         <mj-column width="540px">
             <mj-text font-weight="700" font-size="16px" line-height="24px">
                 Dear %%first_name%%,
@@ -74,7 +74,7 @@ a {
     </mj-section>
     <mj-section padding-top="16px" padding-bottom="24px" background-color="#354ca1">
         <mj-column width="600px">
-            <mj-text align="center" font-size="11px" line-height="18px" color="#fdfdfd">
+            <mj-text padding="0" align="center" font-size="11px" line-height="18px" color="#fdfdfd">
                 © Southern Methodist University<br>
                 5539 SMU Blvd, Dallas, TX 75206
             </mj-text>
@@ -82,11 +82,11 @@ a {
     </mj-section>
     <mj-section padding="0 0 16px 0"  background-color="#354ca1">
         <mj-column>
-        <mj-navbar base-url="#" hamburger="" ico-color="#ffffff">
+        <mj-navbar base-url="" hamburger="" ico-color="#ffffff">
             <mj-navbar-link text-decoration="underline" href="https://mightyandtrue.com" color="#ffffff">Contact</mj-navbar-link>
             <mj-navbar-link text-decoration="underline" href="https://mightyandtrue.com" color="#ffffff">Maps &amp; Directions</mj-navbar-link>
             <mj-navbar-link text-decoration="underline" href="https://mightyandtrue.com" color="#ffffff">Legal Disclosures</mj-navbar-link>
-            <mj-navbar-link text-decoration="underline" href="https://mightyandtrue.com" color="#ffffff">Unsubscribe</mj-navbar-link>
+            <mj-navbar-link text-decoration="underline" href="%%unsubscribe%%" color="#ffffff">Unsubscribe</mj-navbar-link>
         </mj-navbar>
         </mj-column>
     </mj-section>
